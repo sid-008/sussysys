@@ -24,7 +24,7 @@ You may also use strace to trace syscalls and use streamlit to make it into a re
 # strace helpful commands
 1. strace -c -p PID 
 
-2. strace -e trace=write -p pid 
+2. strace -e trace=write -p PID
 (The argument for trace can be replaced by whatever kind of call you want to trace)
 
 # General Instructions for PESU I/O kids:
