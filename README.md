@@ -5,7 +5,8 @@
 
 To run the project basically, try: 
 
-`echo 0 > tracing_on : quick way to disable tracing {May or may not make a difference based on distro afaik}` 
+`echo 0 > tracing_on : quick way to disable tracing`
+{May or may not make a difference based on distro afaik} 
 
 `echo 1 > tracing_on : quick way to enable tracing {Same goes for this, do try it out just in case}`
 
