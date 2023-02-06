@@ -3,13 +3,6 @@
 ### (Part of PESU I/O slot-14 course material)
 
 
-To run the project basically, try: 
-
-`echo 0 > tracing_on : quick way to disable tracing`
-{May or may not make a difference based on distro afaik} 
-
-`echo 1 > tracing_on : quick way to enable tracing supposedly {Same goes for this, do try it out just in case}`
-
 before running please activate venv: 
 `source venv/bin/activate` 
 
